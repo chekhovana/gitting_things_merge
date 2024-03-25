@@ -5,6 +5,7 @@ def new_feature():
 def main():
   print('Git is awesome!')
   print('Subscribe to Brief Channel!')
+  print('branch commit 8')
 
 
 if __name__ == '__main__':
