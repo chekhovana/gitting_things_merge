@@ -6,6 +6,7 @@ def main():
   print('Git is awesome!')
   print('Subscribe to Brief Channel!')
   print('branch commit 8')
+  print('branch commit 9')
 
 
 if __name__ == '__main__':
