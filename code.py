@@ -1,5 +1,5 @@
 def new_feature():
-  print('new feature')
+  print('new feature 2')
 
 
 def main():
